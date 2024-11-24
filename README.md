@@ -2,4 +2,4 @@
 
 An transformer machine learning model for anomaly detection in an IT service component (microservice) will be created.
 
-## NOTE: Currently under development, estimated completion date: `4th of November, 2024`
+## NOTE: Currently under development, estimated completion date: `end of November, 2024`
